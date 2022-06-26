@@ -3,9 +3,6 @@ Installation
 
 .. _Installation:
 
-Requirements to Begin
-------------
-
 
 Create an Autodesk Account
 ------------
