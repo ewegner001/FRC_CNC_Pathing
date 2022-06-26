@@ -1,13 +1,9 @@
-Welcome to Lumache's documentation!
+Welcome to FRC CNC Pathing documentation!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+This documentation will walk you through the process of making a part using CNC manufacturing, utilizing processes developed by `FIRST Robotics Competition <https://www.firstinspires.org/robotics/frc>`_ Teams `930 <https://www.team930.com/>`_ and `1714 <https://www.thebluealliance.com/team/1714>`_.  This documentation will focus on the steps and configurations required to produce common parts on OMIO or Haas based machines, but the core concepts should be applicible to any other CNC manufacturing process.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+To begin check out the :doc:`About` section for further information on CNC manufacturing, or :doc:`Installation` to begin.
 
 .. note::
 
@@ -17,6 +13,5 @@ Contents
 --------
 
 .. toctree::
-
-   usage
-   api
+   About
+   Installation
