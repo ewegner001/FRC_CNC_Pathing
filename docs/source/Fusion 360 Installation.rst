@@ -7,18 +7,33 @@ Instead of creating a :term:`CNC` :term:`path` manually, line-by-line (TODO:ADD 
 
 This documentation will be using Autodesk Fusion 360, as it is a free program (with an educational licence), does not require installation of a large program, and has some cloud and collaboration capabilities.
 
-.. image:: Images/Fusion360Logo.png
+.. image:: Images/Fusion360Logo.webp
   :width: 400
   :alt: Autodesk Fusion 360 Logo
 
 
 Create an Autodesk Account
 ------------
-If you do not already have an Autodesk account, you will need to create one on `Autodesk's website <https://www.autodesk.com/education/edu-software/.`_ by clicking the black "Get Started" button.
+If you do not already have an Autodesk Account, you can create one on `Autodesk's website <https://www.autodesk.com/education/edu-software/>`_ by clicking the black "Get Started".
 
 .. image:: Images/Get%20Started.png
   :width: 600
   :alt: Get Started
+
+Then select "Create Account"
+
+
+.. image:: Images/Create%20Account.png
+  :width: 400
+  :alt: Create Account
+
+
+Fill out your information:
+
+.. image:: Images/Educational%20Info.png
+  :width: 400
+  :alt: Educational Info
+
 
 Install Fusion 360
 ------------
