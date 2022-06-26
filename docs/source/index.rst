@@ -14,5 +14,16 @@ Contents
 
 .. toctree::
    About
-   Installation
+   CAM
+      Fusion 360 Installation
+         Team Configuration
+      Importing and Setup
+      Pathing
+         Setups
+         Pathing
+         Post Processing
+      Tool Libraries
+   CNC Machining
+      OMIO
+      Haas
    Glossary
