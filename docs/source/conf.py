@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'FRC CNC Pathing'
+copyright = '2022, Everen Wegner'
+author = 'Everen Wegner'
 
 release = '0.1'
 version = '0.1.0'
