@@ -12,7 +12,7 @@ Create an Autodesk Account
 ------------
 If you do not already have an Autodesk account, you will need to create one on `Autodesk's website <https://www.autodesk.com/education/edu-software/.`_ by clicking the black "Get Started" button.
 
-.. image:: Images/Get Started.png
+.. image:: FRC_CNC_Pathing/docs/source/Images/Get Started.png
   :width: 400
   :alt: Get Started
 
