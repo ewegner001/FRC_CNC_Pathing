@@ -14,7 +14,7 @@ This documentation will be using Autodesk Fusion 360, as it is a free program (w
 
 Create an Autodesk Account
 ------------
-If you do not already have an Autodesk Account, you can create one on `Autodesk's website <https://www.autodesk.com/education/edu-software/>`_ by clicking the black "Get Started".
+If you do not already have an Autodesk Account, you can create one on `Autodesk's website <https://www.autodesk.com/education/edu-software/>`_ by clicking the black "Get Started".  Otherwise if you already have an Autodesk Account skip to :ref:`Installing Fusion 360`.
 
 .. image:: Images/Get%20Started.png
   :width: 600
@@ -28,15 +28,37 @@ Then select "Create Account"
   :alt: Create Account
 
 
-Fill out your information:
+Fill out your information and verify your email:
 
 .. image:: Images/Educational%20Info.png
   :width: 400
-  :alt: Educational Info
+  :alt: Example Prompt
+  
+.. image:: Images/Account%20Set.png
+  :width: 400
+  :alt: Account Set
+
+Then, log in to your account and return to `Autodesk's Educational page <https://www.autodesk.com/education/edu-software/>`_.  You will likely need to provide more information to verify your account.
+
+.. image:: Images/Verification.png
+  :width: 400
+  :alt: Educational Account Verification
+
+Once you verify your information you should see this confirmation:
+
+.. image:: Images/Confirmation.png
+  :width: 400
+  :alt: Educational Account Confirmation
 
 
-Install Fusion 360
+Congratulations! You now have a Autodesk Educational Account!
+
+Installing Fusion 360
 ------------
+.. _Installing Fusion 360:
+
+
+
 
 
 Join a Fusion Team
